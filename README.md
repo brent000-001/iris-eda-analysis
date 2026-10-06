@@ -1,4 +1,8 @@
-1. Iris EDA Analysis (Aug 2026)
+1. Iris Flower EDA- Exploratory Data Analysis (Aug 2026)
+2. Goal: Explore Iris dataset to find best features for classification
+3. Dataset: 150 flowers, 4 features
+4. what I did?
+5. Cleaned data, checked missing values
 - Tools: Python (Pandas, Seaborn, Matplotlib, Plotly)
 - Language: Python 3.12
 - Libraries: Pandas, Seaborn, Matplotlib, Scikit-learn
@@ -13,3 +17,6 @@
 - Performed missing values analysis and feature correlation check.
 - Pushed end-to-end EDA project to GitHub as portfolio
 - Link: https://github.com/brent000-001/iris-eda-analysis
+- Next steps
+- Try the classification model (Logistic Regression/ Random Forest
+- Feature Selection based on correlation
